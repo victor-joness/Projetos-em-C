@@ -1,2 +1,2 @@
 # Projetos-em-C
-Projetos feito em na tecnologia C
+Projetos feito na Linguagem C
